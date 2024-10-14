@@ -1,13 +1,13 @@
 {
-  "versionCode": 2,
-  "versionName": "0.1.1",
+  "versionCode": 1,
+  "versionName": "0.1.0",
   "changelog": "- 更改配置",
-  "downloadUrl": "./dist/gkd-v1.8.0.wasm",
+  "downloadUrl": "./myg_v0.1.0.apk",
   "fileSize": 5538128,
   "versionLogs": [
     {
-      "name": "0.1.1",
-      "code": 2,
+      "name": "0.1.0",
+      "code": 1,
       "desc": "- 更改配置"
     }
   ]
